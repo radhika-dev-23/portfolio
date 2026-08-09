@@ -1,57 +1,146 @@
 <div align="center">
 
-# 👋 Hi, I'm Radhika Bhargava
+# ✦ Personal Portfolio
 
-### `AI & Robotics` · `Software Development` · `Backend` · `AI Applications`
+### A modern developer portfolio built with React, TypeScript & Tailwind CSS
 
 <p>
-  <a href="https://github.com/radhika-dev-23">
-    <img src="https://img.shields.io/badge/GitHub-radhika--dev--23-181717?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://portfolio-lskbzvsg8-radhikabhargavadev-7863s-projects.vercel.app">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Portfolio-3B82F6?style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/radhika-bhargava-brs1399">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://github.com/radhika-dev-23/portfolio">
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+%7C+AI+%26+Robotics;Software+Developer+in+Progress;Building+AI-powered+applications;Learning+by+building+real+systems" />
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=120&section=header" width="100%" />
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+# 📌 About The Project
+
+This repository contains the source code for my personal developer portfolio.
+
+The website is designed as a **single-page portfolio experience** that brings together my:
+
+- 💼 Professional experience
+- 🚀 Projects
+- 🛠️ Technical skills
+- 🎓 Education
+- 📜 Certifications
+- 📬 Contact information
+- 🔗 GitHub, LinkedIn and resume links
+
+The goal was to create a portfolio that is **clean, technical, responsive and easy to navigate**, while presenting technical information without making the website feel like a traditional resume.
+
+---
+
+# ✨ Features
 
 <table>
 <tr>
-<td width="60%">
+<td width="50%">
 
-I'm a **Computer Science & Engineering student specializing in AI & Robotics at VIT Chennai**.
+### 🏠 Hero Section
 
-I'm interested in building practical software systems across:
-
-- 🤖 Artificial Intelligence
-- ⚙️ Backend Development
-- 🌐 Web Applications
-- 🧠 AI / ML Applications
-- 🧩 Data Structures & Algorithms
-- 🔗 Intelligent Systems
-
-I learn primarily by **building, debugging and understanding real systems** rather than only studying individual technologies.
-
-Currently, I'm working toward becoming a stronger **software developer with an AI-focused skill set**.
+- Personal introduction
+- Developer role
+- Location
+- Current focus
+- Quick navigation
+- Resume access
 
 </td>
 
-<td width="40%">
+<td width="50%">
+
+### 💼 Experience
+
+- Internship information
+- Role and timeline
+- Responsibilities
+- Technologies used
+- Technical work highlights
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🚀 Projects
+
+- Project cards
+- Project descriptions
+- Features
+- Technology stack
+- GitHub links
+- Detailed project views
+
+</td>
+
+<td>
+
+### 🛠️ Skills
+
+Organized technical skills covering:
+
+- Programming languages
+- Frameworks
+- Backend
+- Databases
+- Developer tools
+- Areas of interest
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 👤 About
+
+- Academic background
+- Current learning areas
+- Education
+- Certifications
+
+</td>
+
+<td>
+
+### 📬 Contact
+
+- Email
+- GitHub
+- LinkedIn
+- Resume
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🎨 Design
+
+The portfolio follows a **dark, minimal developer-console inspired design**.
+
+### Design principles
 
 ```text
-┌─────────────────────────┐
-│       Radhika.dev       │
-├─────────────────────────┤
-│ AI & Robotics           │
-│ Software Development    │
-│ Backend                 │
-│ AI Applications         │
-│ Problem Solving         │
-|                         │
-└─────────────────────────┘
+┌──────────────────────────────────────────┐
+│                                          │
+│              MINIMAL                     │
+│                 ↓                        │
+│          TECHNICAL / CLEAN               │
+│                 ↓                        │
+│          EASY TO NAVIGATE                │
+│                 ↓                        │
+│       INFORMATION WITHOUT CLUTTER        │
+│                                          │
+└──────────────────────────────────────────┘
