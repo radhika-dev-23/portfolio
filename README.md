@@ -1,112 +1,62 @@
-# Radhika Bhargava — Portfolio
+<div align="center">
 
-<p align="center">
-  <strong>AI & Robotics Engineering Student · Software Developer</strong>
-  <br />
-  Backend · AI · Intelligent Systems
-</p>
+# ⚡ Radhika Bhargava
 
-<p align="center">
-  <a href="https://portfolio-lskbzvsg8-radhikabhargavadev-7863s-projects.vercel.app">
-    🌐 Live Portfolio
-  </a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/radhika-dev-23">
-    GitHub
-  </a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/radhika-bhargava-brs1399/">
-    LinkedIn
-  </a>
-</p>
+### AI & Robotics Engineering Student · Software Developer
 
----
+**Backend • Artificial Intelligence • Intelligent Systems • Robotics**
 
-## About
+<br />
 
-This repository contains my personal developer portfolio.
+<a href="https://portfolio-lskbzvsg8-radhikabhargavadev-7863s-projects.vercel.app">
+  <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-Visit_Website-0A66C2?style=for-the-badge" alt="Live Portfolio" />
+</a>
+&nbsp;
+<a href="https://github.com/radhika-dev-23">
+  <img src="https://img.shields.io/badge/GitHub-radhika--dev--23-181717?style=for-the-badge&logo=github" alt="GitHub" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/radhika-bhargava-brs1399/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+</a>
 
-The portfolio showcases my technical experience, projects, skills, and
-current learning journey as I develop toward a career in software
-engineering, backend development, AI, and intelligent systems.
+<br />
+<br />
 
-I'm currently pursuing a B.Tech in Computer Science & Engineering with a
-specialization in AI & Robotics at VIT Chennai.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=120&section=header" width="100%" />
 
-> Currently learning. Currently building. Continuously improving.
+</div>
 
 ---
 
-## ✦ What the Portfolio Includes
+## 👋 About Me
 
-### Experience
+I'm a **Computer Science & Engineering student specializing in AI & Robotics
+at VIT Chennai**, interested in building practical software across backend
+engineering, artificial intelligence, and intelligent systems.
 
-Industry exposure through an AI/ML internship involving:
+I've gained industry exposure through an **AI/ML internship** and have
+participated in hackathon projects involving AI-integrated applications,
+simulation, voice interaction, and full-stack development.
 
-- Backend application debugging
-- REST APIs
-- Python and Flask
-- AI-agent based applications
-- AI response latency investigation
-- SQL and data handling
-- Debugging and testing workflows
+Currently, I'm focused on strengthening my engineering fundamentals and
+moving from **AI-assisted development toward independently designing,
+building, debugging, and explaining complete software systems.**
 
-### Projects
-
-#### ORIS — Orbital Risk Intelligence System
-
-A hackathon project exploring orbital debris tracking, collision-risk
-analysis, simulation, and visualization.
-
-**Technologies:** React · Python · Flask · NumPy · Anthropic Claude API
-
-#### Vitalis — Voice-First Early Stroke Detection System
-
-A hackathon project exploring voice-first interaction for accessible
-health-risk screening.
-
-**Technologies:** React · Vite · JavaScript · Web Speech API
+> **Learn the fundamentals → Build → Break → Debug → Understand → Repeat.**
 
 ---
 
-## 🛠 Tech Stack
-
-| Area | Technologies |
-| --- | --- |
-| Frontend | React, TypeScript, Vite |
-| Styling | Tailwind CSS |
-| Programming | C, C++, Java, Python, JavaScript |
-| Backend | Flask, REST APIs |
-| Data | SQL, MySQL |
-| Tools | Git, GitHub, VS Code |
-| Interests | AI, ML, Backend Engineering, Intelligent Systems, Robotics |
-
----
-
-## 📁 Project Structure
+## 🧭 What I'm Building Toward
 
 ```text
-portfolio/
-│
-├── public/
-│   └── static assets
-│
-├── src/
-│   ├── components/
-│   │   ├── sections/
-│   │   └── UI components
-│   │
-│   ├── data/
-│   │   └── portfolio data
-│   │
-│   ├── App.tsx
-│   ├── index.css
-│   └── main.tsx
-│
-├── .gitignore
-├── index.html
-├── package.json
-├── package-lock.json
-├── tailwind.config.js
-├── tsconfig.json
-└── vite.config.ts
+                    SOFTWARE ENGINEERING
+                           │
+            ┌──────────────┼──────────────┐
+            │              │              │
+         Backend           AI          Intelligent
+        Systems           / ML           Systems
+            │              │              │
+            └──────────────┼──────────────┘
+                           │
+                        Robotics
