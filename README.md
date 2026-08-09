@@ -1,62 +1,57 @@
 <div align="center">
 
-# ⚡ Radhika Bhargava
+# 👋 Hi, I'm Radhika Bhargava
 
-### AI & Robotics Engineering Student · Software Developer
+### `AI & Robotics` · `Software Development` · `Backend` · `AI Applications`
 
-**Backend • Artificial Intelligence • Intelligent Systems • Robotics**
+<p>
+  <a href="https://github.com/radhika-dev-23">
+    <img src="https://img.shields.io/badge/GitHub-radhika--dev--23-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/radhika-bhargava-brs1399">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
-<br />
-
-<a href="https://portfolio-lskbzvsg8-radhikabhargavadev-7863s-projects.vercel.app">
-  <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-Visit_Website-0A66C2?style=for-the-badge" alt="Live Portfolio" />
-</a>
-&nbsp;
-<a href="https://github.com/radhika-dev-23">
-  <img src="https://img.shields.io/badge/GitHub-radhika--dev--23-181717?style=for-the-badge&logo=github" alt="GitHub" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/radhika-bhargava-brs1399/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-</a>
-
-<br />
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=120&section=header" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+%7C+AI+%26+Robotics;Software+Developer+in+Progress;Building+AI-powered+applications;Learning+by+building+real+systems" />
 
 </div>
 
 ---
 
-## 👋 About Me
+## 🧑‍💻 About Me
 
-I'm a **Computer Science & Engineering student specializing in AI & Robotics
-at VIT Chennai**, interested in building practical software across backend
-engineering, artificial intelligence, and intelligent systems.
+<table>
+<tr>
+<td width="60%">
 
-I've gained industry exposure through an **AI/ML internship** and have
-participated in hackathon projects involving AI-integrated applications,
-simulation, voice interaction, and full-stack development.
+I'm a **Computer Science & Engineering student specializing in AI & Robotics at VIT Chennai**.
 
-Currently, I'm focused on strengthening my engineering fundamentals and
-moving from **AI-assisted development toward independently designing,
-building, debugging, and explaining complete software systems.**
+I'm interested in building practical software systems across:
 
-> **Learn the fundamentals → Build → Break → Debug → Understand → Repeat.**
+- 🤖 Artificial Intelligence
+- ⚙️ Backend Development
+- 🌐 Web Applications
+- 🧠 AI / ML Applications
+- 🧩 Data Structures & Algorithms
+- 🔗 Intelligent Systems
 
----
+I learn primarily by **building, debugging and understanding real systems** rather than only studying individual technologies.
 
-## 🧭 What I'm Building Toward
+Currently, I'm working toward becoming a stronger **software developer with an AI-focused skill set**.
+
+</td>
+
+<td width="40%">
 
 ```text
-                    SOFTWARE ENGINEERING
-                           │
-            ┌──────────────┼──────────────┐
-            │              │              │
-         Backend           AI          Intelligent
-        Systems           / ML           Systems
-            │              │              │
-            └──────────────┼──────────────┘
-                           │
-                        Robotics
+┌─────────────────────────┐
+│       Radhika.dev       │
+├─────────────────────────┤
+│ AI & Robotics           │
+│ Software Development    │
+│ Backend                 │
+│ AI Applications         │
+│ Problem Solving         │
+|                         │
+└─────────────────────────┘
